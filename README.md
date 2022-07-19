@@ -26,6 +26,7 @@ This section is utilised to develop an ML model.
 
 Dataset for training
 There is a training dataset in the file "news.csv."
+[https://www.kaggle.com/competitions/fake-news/data](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 How do I make a model?
 Execute the cells in the notebook "Fake News Detection.ipynb" in Jupyter Notebook.
